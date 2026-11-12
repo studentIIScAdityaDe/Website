@@ -1,0 +1,24 @@
+body{
+    background : #0d1311;
+    color : white;
+    font-family: monospace;
+    font-size: 24 px;
+    padding:24 px;
+
+}
+.line {
+    display: flex;
+    gap : 10px;
+}
+.prompt{
+    color: white;
+}
+
+input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: inherit;
+  font: inherit;
+  outline: none;
+}
